@@ -147,44 +147,6 @@ Atualmente, estou desenvolvendo minhas habilidades em **programação, análise 
 
 ---
 
-## `> Projetos`
-
-<div align="center">
-
-|          Projeto          | Descrição                             |   Tecnologias   |
-| :-----------------------: | :------------------------------------ | :-------------: |
-| 🔄 **Em desenvolvimento** | Análise exploratória de dados         | Python • Pandas |
-| 🔄 **Em desenvolvimento** | Consultas e análise de banco de dados |       SQL       |
-| 🔄 **Em desenvolvimento** | Dashboard de indicadores              |     Power BI    |
-
-</div>
-
-<p align="center">
-  <em>Novos projetos serão adicionados conforme forem desenvolvidos e publicados.</em>
-</p>
-
----
-
-## `> Estatísticas`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enzodpcouto&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodpcouto&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=C9D1D9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enzodpcouto&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
 ## `> Objetivo`
 
 <div align="center">
