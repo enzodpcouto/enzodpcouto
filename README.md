@@ -1,12 +1,6 @@
 <div align="center">
 
-# ENZO DE PAULA COUTO
-
-### Estudante de Ciência de Dados | Python • SQL • Power BI
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8B5CF6&height=180&section=header&text=ENZO%20DE%20PAULA%20COUTO&fontSize=34&fontColor=ffffff&fontAlignY=35&desc=Ciência%20de%20Dados%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=17&descAlignY=58&descColor=C9D1D9" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-8B5CF6?style=for-the-badge" />
@@ -14,12 +8,17 @@
 </p>
 
 <p>
-  Explorando dados, desenvolvendo projetos e aprendendo novas tecnologias.
+  <a href="https://github.com/enzodpcouto">
+    <img src="https://img.shields.io/badge/GitHub-enzodpcouto-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:enzo.dp.couto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<a href="https://github.com/enzodpcouto">
-  <img src="https://img.shields.io/badge/GitHub-enzodpcouto-181717?style=flat-square&logo=github" />
-</a>
+<p>
+  <em>Explorando dados, desenvolvendo projetos e transformando aprendizado em prática.</em>
+</p>
 
 </div>
 
@@ -40,33 +39,37 @@ class Enzo:
         return "Aprender, praticar e construir projetos"
 ```
 
-Sou estudante de Ciência de Dados na Universidade Anhembi Morumbi, interessado em análise de dados, automação e tecnologia.
+Sou estudante de **Ciência de Dados na Universidade Anhembi Morumbi**, interessado em análise de dados, automação e tecnologia.
 
-Atualmente, estou desenvolvendo minhas habilidades em programação, visualização de dados e bancos de dados, com foco em aprendizado prático e construção de projetos.
+Atualmente, estou desenvolvendo minhas habilidades em **programação, análise de dados, visualização e bancos de dados**, priorizando aprendizado prático através de projetos.
 
 ---
 
-## `> Tecnologias e ferramentas`
+## `> Tecnologias`
 
 <div align="center">
 
-### Dados & Programação
+### `Dados & Programação`
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=sqlite&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-<br><br>
+### `Ferramentas & Sistemas`
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
+</p>
 
-### Sistemas & Design
+### `Design`
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+</p>
 
 </div>
 
@@ -76,61 +79,121 @@ Atualmente, estou desenvolvendo minhas habilidades em programação, visualizaç
 
 <div align="center">
 
-<p>
-  <a href="./certificates/">
-    <img src="https://img.shields.io/badge/ABRIR%20CERTIFICADOS-8B5CF6?style=for-the-badge" />
-  </a>
-</p>
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🐍 Python
+
+**Fundamentos do Python**
+
+<br>
+
+<a href="./Certificado_Fundamentos%20do%20Python%201.pdf">
+  <img src="https://img.shields.io/badge/Visualizar-8B5CF6?style=for-the-badge" />
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 Power BI
+
+**Microsoft Power BI**
+
+<br>
+
+<a href="./Certificado_Microsoft%20Power%20BI.pdf">
+  <img src="https://img.shields.io/badge/Visualizar-8B5CF6?style=for-the-badge" />
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎓 EBAC
+
+**Certificado EBAC**
+
+<br>
+
+<a href="./ebac-certificate-289974c6-08d9-46d7-a0d7-fdbf92c0edfc.pdf">
+  <img src="https://img.shields.io/badge/Visualizar-8B5CF6?style=for-the-badge" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-Os certificados estão organizados na pasta [`certificates`](./certificates).
-
-> Adicione os certificados em formato PDF dentro dessa pasta e mantenha os arquivos com nomes descritivos.
-
-Exemplo:
-
-```text
-certificates/
-├── certificado-python.pdf
-├── certificado-excel.pdf
-├── certificado-power-bi.pdf
-└── certificado-outro-curso.pdf
-```
 
 ---
 
 ## `> Atualmente estudando`
 
-* [ ] SQL e consultas em bancos de dados
-* [ ] Análise e tratamento de dados com Python
-* [ ] Visualização de dados com Power BI
-* [ ] Estatística aplicada à análise de dados
-* [ ] Desenvolvimento de projetos práticos
+<div align="center">
+
+|        Área        | Foco                                        |
+| :----------------: | :------------------------------------------ |
+|     🗄️ **SQL**    | Consultas, filtros, joins e bancos de dados |
+|    🐍 **Python**   | Análise, tratamento e automação de dados    |
+|   📊 **Power BI**  | Dashboards, indicadores e visualização      |
+| 📐 **Estatística** | Fundamentos aplicados à análise de dados    |
+|  🛠️ **Projetos**  | Prática e desenvolvimento de portfólio      |
+
+</div>
 
 ---
 
 ## `> Projetos`
 
-Espaço dedicado aos meus projetos de estudo e aplicações práticas.
+<div align="center">
 
-| Projeto            | Descrição                             | Tecnologias    |
-| ------------------ | ------------------------------------- | -------------- |
-| Em desenvolvimento | Análise exploratória de dados         | Python, Pandas |
-| Em desenvolvimento | Consultas e análise de banco de dados | SQL            |
-| Em desenvolvimento | Dashboard de indicadores              | Power BI       |
+|          Projeto          | Descrição                             |   Tecnologias   |
+| :-----------------------: | :------------------------------------ | :-------------: |
+| 🔄 **Em desenvolvimento** | Análise exploratória de dados         | Python • Pandas |
+| 🔄 **Em desenvolvimento** | Consultas e análise de banco de dados |       SQL       |
+| 🔄 **Em desenvolvimento** | Dashboard de indicadores              |     Power BI    |
 
-*Os projetos serão adicionados aqui conforme forem desenvolvidos e publicados.*
+</div>
+
+<p align="center">
+  <em>Novos projetos serão adicionados conforme forem desenvolvidos e publicados.</em>
+</p>
 
 ---
 
-## `> Estatísticas do GitHub`
+## `> Estatísticas`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=enzodpcouto&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=enzodpcouto&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodpcouto&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodpcouto&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enzodpcouto&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+
+</div>
+
+---
+
+## `> Objetivo`
+
+<div align="center">
+
+### Transformar dados em informação.
+
+<p>
+Buscando evoluir constantemente através de estudos, projetos e experiências práticas.
+</p>
 
 </div>
 
@@ -141,17 +204,23 @@ Espaço dedicado aos meus projetos de estudo e aplicações práticas.
 <div align="center">
 
 <a href="https://github.com/enzodpcouto">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-enzodpcouto-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:[enzo.dp.couto@gmail.com](mailto:enzo.dp.couto@gmail.com)">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:enzo.dp.couto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-enzo.dp.couto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&section=footer" width="100%" />
-
 <sub>Construindo conhecimento, um projeto de cada vez.</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0d0d0d&height=100&section=footer" width="100%" />
 
 </div>
