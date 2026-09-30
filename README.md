@@ -54,12 +54,16 @@ Atualmente, estou desenvolvendo minhas habilidades em programação, visualizaç
 
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 
+<br><br>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 ### Sistemas & Design
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
@@ -72,36 +76,27 @@ Atualmente, estou desenvolvendo minhas habilidades em programação, visualizaç
 
 <div align="center">
 
-<a href="./certificates/python.pdf">
-  <img src="https://img.shields.io/badge/Python-Certificado-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-
-<a href="./certificates/excel.pdf">
-  <img src="https://img.shields.io/badge/Excel-Certificado-8B5CF6?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</a>
-
-<a href="./certificates/power-bi.pdf">
-  <img src="https://img.shields.io/badge/Power%20BI-Certificado-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white" />
-</a>
-
-<a href="./certificates/cybersecurity.pdf">
-  <img src="https://img.shields.io/badge/Cyber%20Security-Certificado-8B5CF6?style=for-the-badge&logo=security&logoColor=white" />
-</a>
+<p>
+  <a href="./certificates/">
+    <img src="https://img.shields.io/badge/ABRIR%20CERTIFICADOS-8B5CF6?style=for-the-badge" />
+  </a>
+</p>
 
 </div>
 
-<br>
+Os certificados estão organizados na pasta [`certificates`](./certificates).
 
-<div align="center">
+> Adicione os certificados em formato PDF dentro dessa pasta e mantenha os arquivos com nomes descritivos.
 
-|     Certificado    |           Área          |                     Documento                     |
-| :----------------: | :---------------------: | :-----------------------------------------------: |
-|     **Python**     |       Programação       |     [📄 Visualizar](./certificates/python.pdf)    |
-|      **Excel**     |     Análise de Dados    |     [📄 Visualizar](./certificates/excel.pdf)     |
-|    **Power BI**    |  Business Intelligence  |    [📄 Visualizar](./certificates/power-bi.pdf)   |
-| **Cyber Security** | Segurança da Informação | [📄 Visualizar](./certificates/cybersecurity.pdf) |
+Exemplo:
 
-</div>
+```text
+certificates/
+├── certificado-python.pdf
+├── certificado-excel.pdf
+├── certificado-power-bi.pdf
+└── certificado-outro-curso.pdf
+```
 
 ---
 
@@ -149,7 +144,7 @@ Espaço dedicado aos meus projetos de estudo e aplicações práticas.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:enzo.dp.couto@gmail.com">
+<a href="mailto:[enzo.dp.couto@gmail.com](mailto:enzo.dp.couto@gmail.com)">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
